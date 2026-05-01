@@ -1,0 +1,203 @@
+{
+  "tips": [
+    {
+      "id": 1,
+      "text": "Choose healthy and active animals"
+    },
+    {
+      "id": 2,
+      "text": "Book your animal early"
+    },
+    {
+      "id": 3,
+      "text": "Verify seller authenticity"
+    },
+    {
+      "id": 4,
+      "text": "Check weight and age properly"
+    },
+    {
+      "id": 5,
+      "text": "Inspect the animal physically if possible"
+    },
+    {
+      "id": 6,
+      "text": "Ensure proper vaccination and care"
+    },
+    {
+      "id": 7,
+      "text": "Confirm delivery details in advance"
+    },
+    {
+      "id": 8,
+      "text": "Use secure and trusted payment methods"
+    },
+    {
+      "id": 9,
+      "text": "Keep all booking and payment records"
+    },
+    {
+      "id": 10,
+      "text": "Follow proper Qurbani guidelines and intention"
+    },
+    {
+      "id": 11,
+      "text": "Do not buy sick or weak animals"
+    },
+    {
+      "id": 12,
+      "text": "Avoid last-minute booking rush"
+    },
+    {
+      "id": 13,
+      "text": "Do not trust unverified sellers"
+    },
+    {
+      "id": 14,
+      "text": "Avoid unsafe or unknown payment methods"
+    },
+    {
+      "id": 15,
+      "text": "Do not ignore animal health conditions"
+    },
+    {
+      "id": 16,
+      "text": "Avoid overpaying without price comparison"
+    },
+    {
+      "id": 17,
+      "text": "Do not skip checking delivery confirmation"
+    },
+    {
+      "id": 18,
+      "text": "Avoid incomplete or unclear booking details"
+    },
+    {
+      "id": 19,
+      "text": "Do not rely on fake images or misleading ads"
+    },
+    {
+      "id": 20,
+      "text": "Avoid rushing the Qurbani process without preparation"
+    }
+  ],
+  "animals": [
+    {
+      "id": "1",
+      "name": "Deshi Shahi Cow",
+      "type": "Cow",
+      "breed": "Local Deshi",
+      "price": 120000,
+      "weight": 280,
+      "age": 3,
+      "location": "Dhaka",
+      "description": "Healthy deshi cow suitable for Qurbani. Well fed with natural খাবার.",
+      "image": "https://i.postimg.cc/JhXjtQRV/1.png",
+      "category": "Large Animal"
+    },
+    {
+      "id": "2",
+      "name": "Black Bull",
+      "type": "Cow",
+      "breed": "Friesian Cross",
+      "price": 185000,
+      "weight": 420,
+      "age": 4,
+      "location": "Khulna",
+      "description": "Strong and বড় সাইজের bull. ভালোভাবে পালন করা হয়েছে with premium feed.",
+      "image": "https://i.postimg.cc/pL4D2Sbf/2.png",
+      "category": "Large Animal"
+    },
+    {
+      "id": "3",
+      "name": "Red Cow",
+      "type": "Cow",
+      "breed": "Sahiwal Cross",
+      "price": 150000,
+      "weight": 350,
+      "age": 3.5,
+      "location": "Rajshahi",
+      "description": "Red colored healthy cow, calm nature, perfect for family Qurbani.",
+      "image": "https://i.postimg.cc/wvdLNsBp/3.png",
+      "category": "Large Animal"
+    },
+    {
+      "id": "4",
+      "name": "Premium Goat",
+      "type": "Goat",
+      "breed": "Black Bengal",
+      "price": 25000,
+      "weight": 32,
+      "age": 1.5,
+      "location": "Natore",
+      "description": "Black Bengal goat, highly demanded for Qurbani. Healthy and active.",
+      "image": "https://i.postimg.cc/Y9wYFmS7/4.png",
+      "category": "Small Animal"
+    },
+    {
+      "id": "5",
+      "name": "White Goat",
+      "type": "Goat",
+      "breed": "Jamunapari Cross",
+      "price": 32000,
+      "weight": 38,
+      "age": 2,
+      "location": "Noakhali",
+      "description": "Tall and সুন্দর white goat, ভালো ওজন এবং সুস্থ.",
+      "image": "https://i.postimg.cc/V6cntbNN/5.png",
+      "category": "Small Animal"
+    },
+    {
+      "id": "6",
+      "name": "Brown Goat",
+      "type": "Goat",
+      "breed": "Black Bengal",
+      "price": 22000,
+      "weight": 28,
+      "age": 1.2,
+      "location": "Cumilla",
+      "description": "Small but healthy goat, budget-friendly Qurbani option.",
+      "image": "https://i.postimg.cc/yxLZ2QyC/6.png",
+      "category": "Small Animal"
+    },
+    {
+      "id": "7",
+      "name": "Sheep",
+      "type": "Sheep",
+      "breed": "Garole",
+      "price": 27000,
+      "weight": 35,
+      "age": 2,
+      "location": "Faridpur",
+      "description": "Soft wool sheep, well-maintained and suitable for Qurbani.",
+      "image": "https://i.postimg.cc/1XmFChwx/7.png",
+      "category": "Small Animal"
+    },
+    {
+      "id": "8",
+      "name": "Heavy Sheep",
+      "type": "Sheep",
+      "breed": "Cross Breed",
+      "price": 30000,
+      "weight": 42,
+      "age": 2.5,
+      "location": "Jamalpur",
+      "description": "Heavy वजन sheep with ভালো স্বাস্থ্য condition.",
+      "image": "https://i.postimg.cc/VvftGQnm/8.png",
+      "category": "Small Animal"
+    },
+    {
+      "id": "9",
+      "name": "Premium Bull",
+      "type": "Cow",
+      "breed": "Sindhi Cross",
+      "price": 210000,
+      "weight": 460,
+      "age": 5,
+      "location": "Dhaka",
+      "description": "Premium বড় bull, ideal for group Qurbani. Properly vaccinated and cared.",
+      "image": "https://i.postimg.cc/8cpvKQMD/9.png",
+      "category": "Large Animal"
+    }
+  ]
+}
