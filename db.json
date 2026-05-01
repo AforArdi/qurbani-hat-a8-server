@@ -1,86 +1,86 @@
 {
   "tips": [
-    {
-      "id": 1,
-      "text": "Choose healthy and active animals"
-    },
-    {
-      "id": 2,
-      "text": "Book your animal early"
-    },
-    {
-      "id": 3,
-      "text": "Verify seller authenticity"
-    },
-    {
-      "id": 4,
-      "text": "Check weight and age properly"
-    },
-    {
-      "id": 5,
-      "text": "Inspect the animal physically if possible"
-    },
-    {
-      "id": 6,
-      "text": "Ensure proper vaccination and care"
-    },
-    {
-      "id": 7,
-      "text": "Confirm delivery details in advance"
-    },
-    {
-      "id": 8,
-      "text": "Use secure and trusted payment methods"
-    },
-    {
-      "id": 9,
-      "text": "Keep all booking and payment records"
-    },
-    {
-      "id": 10,
-      "text": "Follow proper Qurbani guidelines and intention"
-    },
-    {
-      "id": 11,
-      "text": "Do not buy sick or weak animals"
-    },
-    {
-      "id": 12,
-      "text": "Avoid last-minute booking rush"
-    },
-    {
-      "id": 13,
-      "text": "Do not trust unverified sellers"
-    },
-    {
-      "id": 14,
-      "text": "Avoid unsafe or unknown payment methods"
-    },
-    {
-      "id": 15,
-      "text": "Do not ignore animal health conditions"
-    },
-    {
-      "id": 16,
-      "text": "Avoid overpaying without price comparison"
-    },
-    {
-      "id": 17,
-      "text": "Do not skip checking delivery confirmation"
-    },
-    {
-      "id": 18,
-      "text": "Avoid incomplete or unclear booking details"
-    },
-    {
-      "id": 19,
-      "text": "Do not rely on fake images or misleading ads"
-    },
-    {
-      "id": 20,
-      "text": "Avoid rushing the Qurbani process without preparation"
-    }
-  ],
+  {
+    "id": 1,
+    "text": "কুরবানির নিয়ত অবশ্যই আল্লাহর সন্তুষ্টির জন্য হতে হবে"
+  },
+  {
+    "id": 2,
+    "text": "শরিয়ত অনুযায়ী নির্ধারিত পশু নির্বাচন করতে হবে"
+  },
+  {
+    "id": 3,
+    "text": "পশুটি সুস্থ, সবল ও ত্রুটিমুক্ত কিনা তা নিশ্চিত করুন"
+  },
+  {
+    "id": 4,
+    "text": "কুরবানির পশুর বয়স শরিয়ত অনুযায়ী হয়েছে কিনা যাচাই করুন"
+  },
+  {
+    "id": 5,
+    "text": "অসুস্থ, দুর্বল বা বিকলাঙ্গ পশু কুরবানি করা যাবে না"
+  },
+  {
+    "id": 6,
+    "text": "কুরবানির সময় ‘বিসমিল্লাহ, আল্লাহু আকবার’ বলা জরুরি"
+  },
+  {
+    "id": 7,
+    "text": "পশুকে কষ্ট না দিয়ে সুন্দরভাবে জবাই করতে হবে"
+  },
+  {
+    "id": 8,
+    "text": "কিবলার দিকে মুখ করে কুরবানি করা উত্তম"
+  },
+  {
+    "id": 9,
+    "text": "এক পশুর সামনে অন্য পশু জবাই করা থেকে বিরত থাকুন"
+  },
+  {
+    "id": 10,
+    "text": "ধারালো ছুরি ব্যবহার করুন যাতে পশুর কষ্ট কম হয়"
+  },
+  {
+    "id": 11,
+    "text": "কুরবানির গোশত তিন ভাগে ভাগ করা সুন্নত"
+  },
+  {
+    "id": 12,
+    "text": "গরিব ও অভাবীদের মাঝে কুরবানির গোশত বিতরণ করুন"
+  },
+  {
+    "id": 13,
+    "text": "কুরবানির চামড়া বিক্রি করে তার অর্থ দান করা উচিত"
+  },
+  {
+    "id": 14,
+    "text": "কুরবানির জন্য নির্ধারিত দিন ও সময় মেনে চলুন"
+  },
+  {
+    "id": 15,
+    "text": "ঈদের নামাজ আদায়ের পর কুরবানি করা উত্তম"
+  },
+  {
+    "id": 16,
+    "text": "অন্যের হক নষ্ট না করে কুরবানির প্রস্তুতি নিন"
+  },
+  {
+    "id": 17,
+    "text": "পরিচ্ছন্নতা ও স্বাস্থ্যবিধি মেনে কুরবানি সম্পন্ন করুন"
+  },
+  {
+    "id": 18,
+    "text": "কুরবানির সময় অহংকার বা প্রদর্শন থেকে বিরত থাকুন"
+  },
+  {
+    "id": 19,
+    "text": "আল্লাহর প্রতি কৃতজ্ঞতা প্রকাশ করুন কুরবানির মাধ্যমে"
+  },
+  {
+    "id": 20,
+    "text": "কুরবানির শিক্ষা জীবনে বাস্তবায়ন করার চেষ্টা করুন"
+  }
+],
   "animals": [
     {
       "id": "1",
